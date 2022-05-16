@@ -1,4 +1,4 @@
 # merge_conflict
-The name of the file is README.md
-Some changes by other user
+The name of the fileeeee is README.md
+Many changes byyyyy other user
 
