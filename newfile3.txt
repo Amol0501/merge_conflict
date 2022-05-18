@@ -1,3 +1,6 @@
+
+purpose of the demo is to understand the merge conflict.
+This is the file clone from amol.
 conditioner anythinpurpose of the demo is to understanf. android secirty,
 cyber camera bottle
 internet staff
