@@ -1,2 +1,2 @@
 purpose of the demo is to understand the merge conflict.
-
+This is the file clone from amol.
