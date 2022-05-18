@@ -1,1 +1,1 @@
-purpose of the demo is to understand the merge conflict
+some changes in newfile2.txt
