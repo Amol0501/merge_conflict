@@ -1,1 +1,1 @@
-the name of the file is newfile3.txt
+purpose of the demo is to understand the merge conflict.
