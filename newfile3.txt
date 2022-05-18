@@ -1,11 +1,7 @@
-,dmkbdlm
-,d,dlbvld,
-d., d;',
-dmdn;
-klnnd d
-djoddnond
-ohdohpdh
-ljhdlhdlh
-lnd;;dn;
-lohdod
-
+import: specifies the classes and packages that will be imported (as an option, imported statically)
+package: declares a package
+class: declares a class
+interface: declares an interface
+enum: declares an enumerated type
+extends: is used to declare a class and indicates a superclass
+implements: is used to d
